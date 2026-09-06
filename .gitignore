@@ -1,0 +1,42 @@
+## Visual Studio / .NET
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+[Ll]og/
+[Ll]ogs/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.rsuser
+*.userprefs
+*.DotSettings.user
+project.lock.json
+artifacts/
+*.nupkg
+*.snupkg
+*.pdb
+*.cache
+*.log
+*.binlog
+
+## 本仓库不纳入分享的内容
+.tools/
+decompiled/
+SubmissionQa/
+TransferUiProbe/
+TranslationSelfTest/
+cn-translator-debug.log
+test-results.md
+SUBMISSION-QA.md
+FINAL-QA.md
+
+## 本地/系统
+.DS_Store
+Thumbs.db
+*.tmp
+.env
+*.pfx
+*.snk
