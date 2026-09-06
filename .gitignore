@@ -28,6 +28,7 @@ decompiled/
 SubmissionQa/
 TransferUiProbe/
 TranslationSelfTest/
+dist/
 cn-translator-debug.log
 test-results.md
 SUBMISSION-QA.md
